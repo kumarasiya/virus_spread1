@@ -1,4 +1,4 @@
-```python
+
 # app.py
 import io
 import numpy as np
@@ -1265,4 +1265,4 @@ if export:
         "epidemic_analysis_output.csv",
         "text/csv"
     )
-```
+
